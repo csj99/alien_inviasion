@@ -1,3 +1,6 @@
 ##ignore this file##
 /__pycache__/ 
 /others/
+
+key_test.py 
+*.pyc
